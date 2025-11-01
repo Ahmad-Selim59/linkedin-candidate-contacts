@@ -2,6 +2,7 @@ results.txt
 shortlisted_candidates.txt
 auth.json
 rejected_candidates.txt
+applicant_contacts.txt
 # Python general
 __pycache__/
 *.py[cod]
